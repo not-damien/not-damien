@@ -1,6 +1,3 @@
-Hi, my real name is Damien Cruz. I am currently majoring in computer science and working to build my coding portfolio
-
-<!---
-not-damien/not-damien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, My name is Damien Cruz. I am currently a senior majoring in Computer Science at UW tacoma
+I am currently learning about Database Design and 2d game devolpment.
+I have been coding since 2018 and have expernce in Java, Python, C, JavaScript/HTML/CSS, R, and Erlang.
