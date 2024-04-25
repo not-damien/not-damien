@@ -2,16 +2,15 @@
 
 ###
 
-<p align="left">I am a recent graduate of the University of Washington with a  Bachelor of Science in Computer Science and Systems.</p>
 
 ###
 
-<p align="left">I have been coding since 2018 and have experience in Java, Python, C, JavaScript/HTML/CSS, R,SQL and Erlang.</p>
+<p align="left">I have been coding since 2018 and have experience in Java, Python, C, JavaScript/HTML/CSS, R,SQL and Rust.</p>
+<p>I am currently working as a Programming Instructor/Software Developer @ Computing For All</p>
 
-###
+<p align="left">I have a Bachelor of Science in Computer Science and Systems from the University of Washington</p>
 
 
-###
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=not-damien&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=not-damien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
